@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28705.295
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LuzFaltex.Utilities", "LuzFaltex.Utilities\LuzFaltex.Utilities.csproj", "{A9F78D49-F197-4695-8A6C-7820E064AA4A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LuzFaltex.Utilities.Tests", "LuzFaltex.Utilities.Tests\LuzFaltex.Utilities.Tests.csproj", "{03A2E3E2-B918-44BB-9BAA-5E9482DDD18D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LuzFaltex.Utilities.Discord", "LuzFaltex.Utilities.Discord\LuzFaltex.Utilities.Discord.csproj", "{54D86689-8FB5-4012-B40E-59394C634F40}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LuzFaltex.Utilities.Shell", "LuzFaltex.Utilities.Shell\LuzFaltex.Utilities.Shell.csproj", "{6A1F11D5-A58E-4BF0-AA18-A097E2A1B528}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LuzFaltex.Utilities.Collections", "LuzFaltex.Utilities.Collections\LuzFaltex.Utilities.Collections.csproj", "{1FF73F7A-B0F0-456D-BF0A-7A1D9C4A8019}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9F78D49-F197-4695-8A6C-7820E064AA4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9F78D49-F197-4695-8A6C-7820E064AA4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9F78D49-F197-4695-8A6C-7820E064AA4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9F78D49-F197-4695-8A6C-7820E064AA4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03A2E3E2-B918-44BB-9BAA-5E9482DDD18D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03A2E3E2-B918-44BB-9BAA-5E9482DDD18D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03A2E3E2-B918-44BB-9BAA-5E9482DDD18D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03A2E3E2-B918-44BB-9BAA-5E9482DDD18D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54D86689-8FB5-4012-B40E-59394C634F40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54D86689-8FB5-4012-B40E-59394C634F40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54D86689-8FB5-4012-B40E-59394C634F40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54D86689-8FB5-4012-B40E-59394C634F40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A1F11D5-A58E-4BF0-AA18-A097E2A1B528}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A1F11D5-A58E-4BF0-AA18-A097E2A1B528}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A1F11D5-A58E-4BF0-AA18-A097E2A1B528}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A1F11D5-A58E-4BF0-AA18-A097E2A1B528}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FF73F7A-B0F0-456D-BF0A-7A1D9C4A8019}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FF73F7A-B0F0-456D-BF0A-7A1D9C4A8019}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FF73F7A-B0F0-456D-BF0A-7A1D9C4A8019}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FF73F7A-B0F0-456D-BF0A-7A1D9C4A8019}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E00D12A-6721-4CF5-AB2F-59690520FFB2}
+	EndGlobalSection
+EndGlobal
