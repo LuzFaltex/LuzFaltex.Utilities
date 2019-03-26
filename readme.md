@@ -9,7 +9,7 @@ This library contains a few tools we use on a regular basis during internal deve
 * [Dictionary Extensions](https://github.com/LuzFaltex/LuzFaltex.Utilities/blob/master/LuzFaltex.Utilities/Extensions/DictionaryExtensions.cs)
   * [x] Add KeyValuePair
   * [x] AddRange - Accepts Dictionary<TKey, TValue>
-  * [x] TryAdd (`TKey`, `TValue`) or (KeyValuePair<TKey, TValue>`)
+  * [x] TryAdd (`TKey`, `TValue`) or (`KeyValuePair<TKey, TValue>`)
 * EnumTools
   * [x] [ParseFromValue](https://github.com/LuzFaltex/LuzFaltex.Utilities/blob/master/LuzFaltex.Utilities/EnumTools.cs) -- Converts a long value into an enum of the specified types. **Known Issues**: Does not work with flag enums
 * [FileSize](https://github.com/LuzFaltex/LuzFaltex.Utilities/blob/master/LuzFaltex.Utilities/EnumTools.cs) -- A conversion library which converts file sizes (in bytes)
